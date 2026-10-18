@@ -6,7 +6,7 @@ Repositori ini disiapkan sebagai bahan belajar/workshop untuk menunjukkan alur k
 
 ## 🔗 Dashboard Online
 
-**Link dashboard:** [Tambahkan link dashboard di sini](https://digimart.streamlit.app/)
+**Link dashboard:** https://digimart.streamlit.app/
 
 ## 🎯 Tujuan Praktik
 
